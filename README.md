@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra bater um papo sobre minhas qualificações pode clicar nos contatos a baixo!
+  ### Vamos bater um papo sobre as minhas qualificações,  então clique em um dos contatos a baixo!
   
  <div> 
   <a href = "mailto:rclarindo.alves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
