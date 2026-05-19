@@ -3,13 +3,13 @@
 <h3 align="center">Apaixonada por qualidade, automação e melhoria contínua de processos.</h3>
 
 <div align="center">
-  <img src="https://komarev.com" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=rcalves82&color=blue" alt="Contador de visitas" />
 </div>
 
 <br>
 
 ## 📌 Sobre Mim
-Sou uma profissional dedicada a garantir a melhor experiência para o usuário final, atuando desde a concepção dos requisitos até a entrega em produção. Acredito que QA não é apenas "encontrar bugs", mas sim preveni-los e construir uma cultura de qualidade sólida no time.
+Sou uma profissional dedicada a garantir a melhor experiência para o usuário final, atuando desde a concepção dos requisitos até a entrega em produção. Acredito que QA não é apenas "encontrar bugs", mas ser uma parceira estratégica na busca pela excelência.
 
 ## 🛠️ Minhas Habilidades
 
@@ -38,14 +38,20 @@ Sou uma profissional dedicada a garantir a melhor experiência para o usuário f
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180px" src="https://vercel.app" alt="Estatísticas do GitHub" />
-  <img height="180px" src="https://vercel.app" alt="Linguagens mais usadas" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rcalves82&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcalves82&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
 ## 🤝 Vamos nos Conectar?
-[![LinkedIn](https://shields.io)](linkedin.com/in/rodrigoclarindoalves)
-[![Gmail](https://shields.io)](mailto:rclarindo.alves@gmail.com)
 
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/rodrigoclarindoalves" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rclarindo.alves@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
