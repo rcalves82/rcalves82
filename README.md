@@ -9,7 +9,7 @@
 <br>
 
 ## 📌 Sobre Mim
-Sou uma profissional dedicada a garantir a melhor experiência para o usuário final, atuando desde a concepção dos requisitos até a entrega em produção. Acredito que QA não é apenas "encontrar bugs", mas ser um parceiro estratégico na entrega de valor.
+Sou uma profissional dedicada a garantir a melhor experiência para o usuário final, atuando desde a concepção dos requisitos até a entrega em produção. Acredito que QA não é apenas "encontrar bugs", mas sim garantir que cada funcionalidade agregue valor real.
 
 ## 🛠️ Minhas Habilidades
 
@@ -35,11 +35,15 @@ Sou uma profissional dedicada a garantir a melhor experiência para o usuário f
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🎯 Destaques Profissionais
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=rcalves82&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcalves82&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+  <strong>✨ Focada em:</strong><br>
+  Qualidade de Software | Automação Inteligente | Shift-Left Testing | Melhoria Contínua
+</p>
+
+<p align="center">
+  <code>Java</code> • <code>JavaScript</code> • <code>Python</code> • <code>Selenium</code> • <code>Cypress</code> • <code>API Testing</code> • <code>CI/CD</code>
 </p>
 
 ---
