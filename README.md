@@ -13,19 +13,17 @@ Seja bem-vindo(a) ao meu perfil!
 
 ### 🚀 Tecnologias que utilizo
 <div align="center">
-  <img align="center" alt="JavaScript" height="30" width="40" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
 <br>
 
 ### 📫 Vamos bater um papo!
-Clique em um dos contatos abaixo:
-
 <div align="center">
   <a href="https://www.linkedin.com/in/rodrigo-clarindo-alves-b67b9765" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -36,5 +34,5 @@ Clique em um dos contatos abaixo:
 
 ### 🐍 Contribuições
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rcalves82/rcalves82/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/rcalves82/rcalves82/output/github-contribution-grid-snake.svg">
 </div>
