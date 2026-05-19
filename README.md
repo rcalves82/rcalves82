@@ -9,7 +9,7 @@
 <br>
 
 ## 📌 Sobre Mim
-Sou uma profissional dedicada a garantir a melhor experiência para o usuário final, atuando desde a concepção dos requisitos até a entrega em produção. Acredito que QA não é apenas "encontrar bugs", mas ser uma parceira estratégica na busca pela excelência.
+Sou uma profissional dedicada a garantir a melhor experiência para o usuário final, atuando desde a concepção dos requisitos até a entrega em produção. Acredito que QA não é apenas "encontrar bugs", mas ser um parceiro estratégico na entrega de valor.
 
 ## 🛠️ Minhas Habilidades
 
@@ -54,4 +54,3 @@ Sou uma profissional dedicada a garantir a melhor experiência para o usuário f
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-
