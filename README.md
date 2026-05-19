@@ -1,24 +1,10 @@
-<h1 align="center">Olá, eu sou o Rodrigo Clarindo 👋</h1>
+## Olá, eu sou o Rodrigo Clarindo 👋
+Seja bem-vindo(a) ao meu perfil!
 
 <p align="center">
-  QA Engineer | Testes Automatizados | Qualidade de Software
-</p>
-
----
-
-## 👨‍💻 Sobre mim
-💡 Sou QA Engineer apaixonado por qualidade de software  
-🔍 Experiência em testes manuais e automatizados  
-🚀 Foco em garantir aplicações confiáveis e escaláveis  
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rcalves82&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcalves82&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+</p>
 
 ---
 
