@@ -30,8 +30,3 @@ Seja bem-vindo(a) ao meu perfil!
 
 ---
 
-## 🐍 Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rcalves82/rcalves82/output/github-contribution-grid-snake.svg"/>
-</div>
