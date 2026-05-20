@@ -1,6 +1,6 @@
 <h1 align="center">Olá, sou QA Engineer 🚀</h1>
 
-<h3 align="center">Apaixonada por qualidade, automação e melhoria contínua de processos.</h3>
+<h3 align="center">Entusiasta da qualidade, automação e melhoria contínua de processos.</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rcalves82&color=blue" alt="Contador de visitas" />
