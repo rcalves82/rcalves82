@@ -9,7 +9,7 @@
 <br>
 
 ## 📌 Sobre Mim
-Sou uma profissional dedicada a garantir a melhor experiência para o usuário final, atuando desde a concepção dos requisitos até a entrega em produção. Acredito que QA não é apenas "encontrar bugs", mas sim garantir que cada funcionalidade agregue valor real.
+Sou um profissional dedicado a garantir a melhor experiência para o usuário final, atuando desde a concepção dos requisitos até a entrega em produção. Acredito que QA não é apenas "encontrar bugs", mas sim garantir que cada funcionalidade agregue valor real.
 
 ## 🛠️ Minhas Habilidades
 
