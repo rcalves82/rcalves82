@@ -1,45 +1,45 @@
-<h1 align="center">Olá, sou QA Engineer 🚀</h1>
+<h1 align="center">Hello, I'm a QA Engineer 🚀</h1>
 
-<h3 align="center">Entusiasta da qualidade, da automação de testes e da melhoria contínua de processos.</h3>
+<h3 align="center">Passionate about quality, test automation, and continuous process improvement.</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rcalves82&color=blue" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=rcalves82&color=blue" alt="Profile views counter" />
 </div>
 
 <br>
 
-## 📌 Sobre Mim
-Sou um profissional dedicado a garantir a melhor experiência para o usuário final, atuando desde a concepção dos requisitos até a entrega em produção. Acredito que QA não é apenas "encontrar bugs", mas sim garantir que cada funcionalidade agregue valor real.
+## 📌 About Me
+I am a professional dedicated to ensuring the best possible experience for end users, working from requirements definition to production delivery. I believe QA is not just about "finding bugs" but ensuring every feature delivers real business value.
 
-## 🛠️ Minhas Habilidades
+## 🛠️ My Skills
 
-### 💻 Automação e Testes
-* **Testes Funcionais:** Web, Mobile, API, Desktop
-* **Automação de APIs:** RestAssured, Postman, Cypress, SuperTest
-* **Automação Web/Mobile:** Selenium WebDriver, Cypress, Playwright, Appium
-* **Linguagens de Programação:** Java, JavaScript, Python
-* **Performance e Carga:** JMeter, k6
+### 💻 Automation & Testing
+* **Functional Testing:** Web, Mobile, API, Desktop
+* **API Automation:** RestAssured, Postman, Cypress, SuperTest
+* **Web/Mobile Automation:** Selenium WebDriver, Cypress, Playwright, Appium
+* **Programming Languages:** Java, JavaScript, Python
+* **Performance & Load Testing:** JMeter, k6
 
-### ⚙️ Ferramentas e Infraestrutura
+### ⚙️ Tools & Infrastructure
 * **CI/CD:** Jenkins, GitHub Actions, GitLab CI
-* **Controle de Versão:** Git, GitHub, GitLab
-* **Gestão de Projetos:** Jira, Trello, Azure DevOps
-* **Monitoramento e Logs:** Datadog, Kibana, Sentry
-* **Bancos de Dados:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
+* **Version Control:** Git, GitHub, GitLab
+* **Project Management:** Jira, Trello, Azure DevOps
+* **Monitoring & Logging:** Datadog, Kibana, Sentry
+* **Databases:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
 
-### 🔬 Metodologias e Processos
-* **Metodologias Ágeis:** Scrum, Kanban
-* **Modelagem de Testes:** BDD (Behavior-Driven Development), TDD (Test-Driven Development)
-* **Documentação de Testes:** Cucumber, SpecFlow, Xray
-* **Boas Práticas:** Clean Code, Code Review, Shift-Left Testing
+### 🔬 Methodologies & Processes
+* **Agile Methodologies:** Scrum, Kanban
+* **Test Design:** BDD (Behavior-Driven Development), TDD (Test-Driven Development)
+* **Test Documentation:** Cucumber, SpecFlow, Xray
+* **Best Practices:** Clean Code, Code Review, Shift-Left Testing
 
 ---
 
-## 🎯 Destaques Profissionais
+## 🎯 Professional Highlights
 
 <p align="center">
-  <strong>✨ Focada em:</strong><br>
-  Qualidade de Software | Automação Inteligente | Shift-Left Testing | Melhoria Contínua
+  <strong>✨ Focused on:</strong><br>
+  Software Quality | Intelligent Test Automation | Shift-Left Testing | Continuous Improvement
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ Sou um profissional dedicado a garantir a melhor experiência para o usuário fi
 
 ---
 
-## 🤝 Vamos nos Conectar?
+## 🤝 Let's Connect?
 
 <p align="center">
   <a href="https://linkedin.com/in/rodrigoclarindoalves" target="_blank">
